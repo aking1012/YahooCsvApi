@@ -1,0 +1,8 @@
+A python adapter to easily work with the Yahoo CSV API
+
+The if __name__ == "__main__" part should give you an idea how to work with it.
+
+It's a component of a larger project I'm working on, but I thought it was useful.
+Thought I would put it out there.  It's the first one I went to the trouble of making 10/10 with pylint.
+
+<a href='http://www.pledgie.com/campaigns/17342'><img alt='Click here to lend your support to: Yahoo CSV API and make a donation at www.pledgie.com !' src='http://www.pledgie.com/campaigns/17342.png?skin_name=chrome' border='0' /></a>
